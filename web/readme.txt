@@ -9,20 +9,20 @@ Requisitos:
   * Página para visualização dos detalhes do candidato.
 
 Procedimentos:
-Etapa 1 - Listagem de candidatos:
+Etapa 1 - Listagem de candidatos (index.html):
    * Elaboração do layout da tela.
-   * Criação de layout responsivo.
-   * Estilização.
+   * Criação de layout responsivo (index.html).
+   * Estilização (index.css).
    * Testes em diferentes dispositivos.
-   * Codificação das regras de negócio.
+   * Codificação das regras de negócio (index.js).
    * Testes
 
-Etapa 2 - Tela de detalhes dos candidatos
+Etapa 2 - Tela de detalhes dos candidatos (candidatos.html)
    * Elaboração do layout da tela.
-   * Criação de layout responsivo.
-   * Estilização.
+   * Criação de layout responsivo (candidatos.html).
+   * Estilização (candidatos.css).
    * Testes em diferentes dispositivos.
-   * Codificação das regras de negócio.
+   * Codificação das regras de negócio (candidatos.js).
    * Testes.
 
 

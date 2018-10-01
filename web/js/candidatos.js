@@ -62,8 +62,16 @@ $(document).ready(function () {
             'id': items[0],
             'is': items[1]
         }
-        id = array.id.split("=")[1];
-        isPresidente = array.is.split("=")[1];
+
+        if (!array['id'] || !array['is']) {
+            console.log('Retorne a tela inicial');
+            window.location.href = "index.html";
+        } else {
+            id = array.id.split("=")[1];
+            isPresidente = array.is.split("=")[1];
+        }
+
+
     }
 
     function getUrlCandidato() {
