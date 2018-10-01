@@ -1,0 +1,26 @@
+
+.nav-height{
+    height: 100px;
+}
+.container .titulo{  
+    color: #000;
+    font-size: 30px;
+}
+.container .subtitulo{
+    color: #000;
+    font-size: 20px;
+}
+.container.ajusteDivPrincipal{
+    padding-top: 105px;
+}
+.alignRight{
+    text-align: right;
+}
+.alignCenter{
+    text-align: center;
+}
+.tituloSecao{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
